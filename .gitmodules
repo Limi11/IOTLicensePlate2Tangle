@@ -1,0 +1,3 @@
+[submodule "LicensePlate2Tangle_Server"]
+	path = LicensePlate2Tangle_Server
+	url = https://github.com/Limi11/LicensePlate2Tangle_Server

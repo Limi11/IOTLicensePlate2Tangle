@@ -1,3 +1,9 @@
 [submodule "LicensePlate2Tangle_Server"]
 	path = LicensePlate2Tangle_Server
 	url = https://github.com/Limi11/LicensePlate2Tangle_Server
+[submodule "IOTA_App"]
+	path = IOTA_App
+	url = https://github.com/Jomai95/IOTA_App
+[submodule "LicensePlate2Tangle_Hardware"]
+	path = LicensePlate2Tangle_Hardware
+	url = https://github.com/ChristophChang/LicensePlate2Tangle_Hardware
